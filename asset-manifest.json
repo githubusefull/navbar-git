@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/navbar-git/static/css/main.3c37f10b.css",
-    "main.js": "/navbar-git/static/js/main.8ef44f5a.js",
+    "main.css": "/navbar-git/static/css/main.19a11972.css",
+    "main.js": "/navbar-git/static/js/main.07835a3c.js",
     "static/js/787.7eea70cc.chunk.js": "/navbar-git/static/js/787.7eea70cc.chunk.js",
     "index.html": "/navbar-git/index.html",
-    "main.3c37f10b.css.map": "/navbar-git/static/css/main.3c37f10b.css.map",
-    "main.8ef44f5a.js.map": "/navbar-git/static/js/main.8ef44f5a.js.map",
+    "main.19a11972.css.map": "/navbar-git/static/css/main.19a11972.css.map",
+    "main.07835a3c.js.map": "/navbar-git/static/js/main.07835a3c.js.map",
     "787.7eea70cc.chunk.js.map": "/navbar-git/static/js/787.7eea70cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c37f10b.css",
-    "static/js/main.8ef44f5a.js"
+    "static/css/main.19a11972.css",
+    "static/js/main.07835a3c.js"
   ]
 }
