@@ -165,6 +165,7 @@ margin: 13px;
     color: white;
     font-size: 32px;
     margin-bottom: 4px;
+    display: none;
 }
 @media(max-width:1400px) {
     .menu-icon{

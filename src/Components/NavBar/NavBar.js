@@ -341,7 +341,7 @@ function NavBar() {
            <span class="visually-hidden">New</span>
            </span>
            <ul
-          className="dropdown-menu dropdown-menu-start mydrop"
+          className="dropdown-menu dropdown-menu-end mydrop"
           aria-labelledby="navbarDropdownMenuLink"
           id="drop-ul3"
         >
